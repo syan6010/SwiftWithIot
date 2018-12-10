@@ -7,21 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		05135A69216D87060092F61A /* Spotify_Icon_RGB_Green.png in Resources */ = {isa = PBXBuildFile; fileRef = 05135A68216D87050092F61A /* Spotify_Icon_RGB_Green.png */; };
+		05135A6B216D8CC30092F61A /* beginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05135A6A216D8CC30092F61A /* beginViewController.swift */; };
+		05135A6D216D8D220092F61A /* instagram-hex-colors-gradient-background.png in Resources */ = {isa = PBXBuildFile; fileRef = 05135A6C216D8D220092F61A /* instagram-hex-colors-gradient-background.png */; };
+		05135A6F216D95170092F61A /* LogoMakr_1ariSz.png in Resources */ = {isa = PBXBuildFile; fileRef = 05135A6E216D95170092F61A /* LogoMakr_1ariSz.png */; };
+		05135A71216D9D360092F61A /* LogoMakr_7NQGzb.png in Resources */ = {isa = PBXBuildFile; fileRef = 05135A70216D9D360092F61A /* LogoMakr_7NQGzb.png */; };
+		051F7B5F216256E800C573ED /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051F7B5E216256E800C573ED /* HomeViewController.swift */; };
+		055785F42161F41C002F0427 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 055785F32161F41C002F0427 /* GoogleService-Info.plist */; };
 		05BD713C2161D0C800E1D5F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BD713B2161D0C800E1D5F6 /* AppDelegate.swift */; };
-		05BD713E2161D0C800E1D5F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BD713D2161D0C800E1D5F6 /* ViewController.swift */; };
 		05BD71412161D0C800E1D5F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05BD713F2161D0C800E1D5F6 /* Main.storyboard */; };
 		05BD71432161D0CA00E1D5F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05BD71422161D0CA00E1D5F6 /* Assets.xcassets */; };
 		05BD71462161D0CA00E1D5F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05BD71442161D0CA00E1D5F6 /* LaunchScreen.storyboard */; };
+		05BD714E2161D7F900E1D5F6 /* steve-johnson-676943-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05BD714D2161D7F900E1D5F6 /* steve-johnson-676943-unsplash.jpg */; };
+		05BD71502161DCC500E1D5F6 /* joanna-kosinska-439233-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05BD714F2161DCC500E1D5F6 /* joanna-kosinska-439233-unsplash.jpg */; };
+		05BD71522161E4BB00E1D5F6 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BD71512161E4BB00E1D5F6 /* SignUpViewController.swift */; };
+		05BD71542161E56E00E1D5F6 /* ResetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BD71532161E56E00E1D5F6 /* ResetPasswordViewController.swift */; };
+		05BD71562161E5F800E1D5F6 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BD71552161E5F800E1D5F6 /* StartViewController.swift */; };
+		05BD71582161E7D900E1D5F6 /* klemen-vrankar-706901-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 05BD71572161E7D900E1D5F6 /* klemen-vrankar-706901-unsplash.jpg */; };
+		05CB644D21626217000537B1 /* LoginInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05CB644C21626217000537B1 /* LoginInViewController.swift */; };
+		37188ED65D3CB5324A8B8C6B /* Pods_rasp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0BB8BF8186E85D2847B77F5 /* Pods_rasp.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		05135A68216D87050092F61A /* Spotify_Icon_RGB_Green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spotify_Icon_RGB_Green.png; sourceTree = "<group>"; };
+		05135A6A216D8CC30092F61A /* beginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = beginViewController.swift; sourceTree = "<group>"; };
+		05135A6C216D8D220092F61A /* instagram-hex-colors-gradient-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagram-hex-colors-gradient-background.png"; sourceTree = "<group>"; };
+		05135A6E216D95170092F61A /* LogoMakr_1ariSz.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LogoMakr_1ariSz.png; sourceTree = "<group>"; };
+		05135A70216D9D360092F61A /* LogoMakr_7NQGzb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LogoMakr_7NQGzb.png; sourceTree = "<group>"; };
+		051F7B5E216256E800C573ED /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		055785F32161F41C002F0427 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		05BD71382161D0C800E1D5F6 /* rasp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rasp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05BD713B2161D0C800E1D5F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		05BD713D2161D0C800E1D5F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		05BD71402161D0C800E1D5F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		05BD71422161D0CA00E1D5F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05BD71452161D0CA00E1D5F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05BD71472161D0CA00E1D5F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05BD714D2161D7F900E1D5F6 /* steve-johnson-676943-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "steve-johnson-676943-unsplash.jpg"; sourceTree = "<group>"; };
+		05BD714F2161DCC500E1D5F6 /* joanna-kosinska-439233-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "joanna-kosinska-439233-unsplash.jpg"; sourceTree = "<group>"; };
+		05BD71512161E4BB00E1D5F6 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		05BD71532161E56E00E1D5F6 /* ResetPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetPasswordViewController.swift; sourceTree = "<group>"; };
+		05BD71552161E5F800E1D5F6 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
+		05BD71572161E7D900E1D5F6 /* klemen-vrankar-706901-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "klemen-vrankar-706901-unsplash.jpg"; sourceTree = "<group>"; };
+		05CB644C21626217000537B1 /* LoginInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginInViewController.swift; sourceTree = "<group>"; };
+		A5B33220DE633E7F02946C23 /* Pods-rasp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rasp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-rasp/Pods-rasp.debug.xcconfig"; sourceTree = "<group>"; };
+		B0BB8BF8186E85D2847B77F5 /* Pods_rasp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_rasp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D925B9D99B1966C0D5F4012D /* Pods-rasp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rasp.release.xcconfig"; path = "Pods/Target Support Files/Pods-rasp/Pods-rasp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37188ED65D3CB5324A8B8C6B /* Pods_rasp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +71,14 @@
 			children = (
 				05BD713A2161D0C800E1D5F6 /* rasp */,
 				05BD71392161D0C800E1D5F6 /* Products */,
+				05135A70216D9D360092F61A /* LogoMakr_7NQGzb.png */,
+				05135A6E216D95170092F61A /* LogoMakr_1ariSz.png */,
+				05135A6C216D8D220092F61A /* instagram-hex-colors-gradient-background.png */,
+				05BD714F2161DCC500E1D5F6 /* joanna-kosinska-439233-unsplash.jpg */,
+				05135A68216D87050092F61A /* Spotify_Icon_RGB_Green.png */,
+				05BD71572161E7D900E1D5F6 /* klemen-vrankar-706901-unsplash.jpg */,
+				F8F46068CBD8D38E11A22E01 /* Pods */,
+				218CC2B5D3EEF526F56607EF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +93,38 @@
 		05BD713A2161D0C800E1D5F6 /* rasp */ = {
 			isa = PBXGroup;
 			children = (
+				05CB644C21626217000537B1 /* LoginInViewController.swift */,
+				051F7B5E216256E800C573ED /* HomeViewController.swift */,
+				05BD71552161E5F800E1D5F6 /* StartViewController.swift */,
+				05BD71512161E4BB00E1D5F6 /* SignUpViewController.swift */,
+				05BD71532161E56E00E1D5F6 /* ResetPasswordViewController.swift */,
 				05BD713B2161D0C800E1D5F6 /* AppDelegate.swift */,
-				05BD713D2161D0C800E1D5F6 /* ViewController.swift */,
 				05BD713F2161D0C800E1D5F6 /* Main.storyboard */,
+				05135A6A216D8CC30092F61A /* beginViewController.swift */,
 				05BD71422161D0CA00E1D5F6 /* Assets.xcassets */,
 				05BD71442161D0CA00E1D5F6 /* LaunchScreen.storyboard */,
 				05BD71472161D0CA00E1D5F6 /* Info.plist */,
+				05BD714D2161D7F900E1D5F6 /* steve-johnson-676943-unsplash.jpg */,
+				055785F32161F41C002F0427 /* GoogleService-Info.plist */,
 			);
 			path = rasp;
+			sourceTree = "<group>";
+		};
+		218CC2B5D3EEF526F56607EF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B0BB8BF8186E85D2847B77F5 /* Pods_rasp.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F8F46068CBD8D38E11A22E01 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A5B33220DE633E7F02946C23 /* Pods-rasp.debug.xcconfig */,
+				D925B9D99B1966C0D5F4012D /* Pods-rasp.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +134,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 05BD714A2161D0CA00E1D5F6 /* Build configuration list for PBXNativeTarget "rasp" */;
 			buildPhases = (
+				F458366EC86CDFD99FB4A778 /* [CP] Check Pods Manifest.lock */,
 				05BD71342161D0C800E1D5F6 /* Sources */,
 				05BD71352161D0C800E1D5F6 /* Frameworks */,
 				05BD71362161D0C800E1D5F6 /* Resources */,
+				3C9536D1729A3B43FE3E6CCB /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -124,19 +189,77 @@
 			files = (
 				05BD71462161D0CA00E1D5F6 /* LaunchScreen.storyboard in Resources */,
 				05BD71432161D0CA00E1D5F6 /* Assets.xcassets in Resources */,
+				05BD71582161E7D900E1D5F6 /* klemen-vrankar-706901-unsplash.jpg in Resources */,
+				05BD714E2161D7F900E1D5F6 /* steve-johnson-676943-unsplash.jpg in Resources */,
+				05BD71502161DCC500E1D5F6 /* joanna-kosinska-439233-unsplash.jpg in Resources */,
+				05135A69216D87060092F61A /* Spotify_Icon_RGB_Green.png in Resources */,
 				05BD71412161D0C800E1D5F6 /* Main.storyboard in Resources */,
+				05135A6D216D8D220092F61A /* instagram-hex-colors-gradient-background.png in Resources */,
+				055785F42161F41C002F0427 /* GoogleService-Info.plist in Resources */,
+				05135A6F216D95170092F61A /* LogoMakr_1ariSz.png in Resources */,
+				05135A71216D9D360092F61A /* LogoMakr_7NQGzb.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3C9536D1729A3B43FE3E6CCB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-rasp/Pods-rasp-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-rasp/Pods-rasp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F458366EC86CDFD99FB4A778 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-rasp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		05BD71342161D0C800E1D5F6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				05BD713E2161D0C800E1D5F6 /* ViewController.swift in Sources */,
+				05BD71562161E5F800E1D5F6 /* StartViewController.swift in Sources */,
+				05CB644D21626217000537B1 /* LoginInViewController.swift in Sources */,
+				05BD71522161E4BB00E1D5F6 /* SignUpViewController.swift in Sources */,
 				05BD713C2161D0C800E1D5F6 /* AppDelegate.swift in Sources */,
+				05BD71542161E56E00E1D5F6 /* ResetPasswordViewController.swift in Sources */,
+				05135A6B216D8CC30092F61A /* beginViewController.swift in Sources */,
+				051F7B5F216256E800C573ED /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,15 +401,18 @@
 		};
 		05BD714B2161D0CA00E1D5F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A5B33220DE633E7F02946C23 /* Pods-rasp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PBRYJHF44B;
 				INFOPLIST_FILE = rasp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-.rasp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ntub.rasp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -295,15 +421,18 @@
 		};
 		05BD714C2161D0CA00E1D5F6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D925B9D99B1966C0D5F4012D /* Pods-rasp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PBRYJHF44B;
 				INFOPLIST_FILE = rasp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-.rasp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ntub.rasp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

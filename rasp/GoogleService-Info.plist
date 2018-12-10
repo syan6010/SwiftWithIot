@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>886759153163-tgkoj65hqtccr3rgvq0fh3h1bep1rpgu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886759153163-tgkoj65hqtccr3rgvq0fh3h1bep1rpgu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB25lyi9Z97aZNd3p2GjM9UPmJ0uSmkYJY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886759153163</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ntub.rasp</string>
+	<key>PROJECT_ID</key>
+	<string>iotproject-df2eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iotproject-df2eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886759153163:ios:6482f0b12ffd5188</string>
+	<key>DATABASE_URL</key>
+	<string>https://iotproject-df2eb.firebaseio.com</string>
+</dict>
+</plist>
